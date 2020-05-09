@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1584050794 source:c:\users\modyh\desktop\correlating predictor\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<bitset>
+	<fstream>
+	<string>
+	<algorithm>
+	<iomanip>
+
